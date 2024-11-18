@@ -1,0 +1,63 @@
+{
+  "ID": "",
+  "localidad": {
+    "municipio": "",
+    "localizador": {
+      "direccion": "",
+      "telefonos": 
+      {
+        "movil": "",
+        "fijo": ""
+      },
+      "plus_code": ""
+    }
+  },
+  "nombre": "",
+  "tipo_cocina": [""],
+  "horario": {
+    "lunes": {
+      "apertura": "",
+      "cierre": ""
+    },
+    "martes": {
+      "apertura": "",
+      "cierre": ""
+    },
+    "miercoles": {
+      "apertura": "",
+      "cierre": ""
+    },
+    "jueves": {
+      "apertura": "",
+      "cierre": ""
+    },
+    "viernes": {
+      "apertura": "",
+      "cierre": ""
+    },
+    "sabado": {
+      "apertura": "",
+      "cierre": ""
+    },
+    "domingo": {
+      "apertura": "",
+      "cierre": ""
+    }
+  },
+  "calidad_restaurante": {
+    "calificacion_google": 0.0,
+    "calificacion_tripadvisor": 0.0,
+    "calificacion_facebook": 0.0
+  },
+  "menu": {
+    "desayuno": [],
+    "entrantes": [],
+    "platos_principales": [],
+    "sides": [],
+    "postres": []
+  },
+  "bebidas": {
+     "alcohólicas": [],
+     "no_alcohólicas": []
+   }
+}

@@ -1,0 +1,154 @@
+{
+  "ID": 1,
+  "localidad": {
+    "municipio": "Regla",
+    "localizador": {
+      "direccion": "Via Blanca 11 e/ Independencia y San Luis",
+      "telefonos": 
+      {
+        "movil": 58222469,
+        "fijo": 77976432
+      },
+      "plus_code": "4MFJ+M6J, La Habana"
+    }
+  },
+  "nombre": "Restaurante El Pavo",
+  "tipo_cocina": ["criolla", "internacional"],
+  "horario": {
+    "lunes": {
+      "apertura": "12:00",
+      "cierre": "23:00"
+    },
+    "martes": {
+      "apertura": "12:00",
+      "cierre": "23:00"
+    },
+    "miercoles": {
+      "apertura": "12:00",
+      "cierre": "23:00"
+    },
+    "jueves": {
+      "apertura": "12:00",
+      "cierre": "23:00"
+    },
+    "viernes": {
+      "apertura": "12:00",
+      "cierre": "23:00"
+    },
+    "sabado": {
+      "apertura": "12:00",
+      "cierre": "23:00"
+    },
+    "domingo": {
+      "apertura": "12:00",
+      "cierre": "23:00"
+    }
+  },
+  "calidad_restaurante": {
+    "calificacion_google": 4.3,
+    "calificacion_tripadvisor": 4.5,
+    "calificacion_facebook": 3.9
+  },
+  "menu": {
+    "desayuno": [null],
+    "entrantes": 
+    [
+    {
+        "plato": "Ensalada Fria de Jamon",
+        "precio": 450.00
+    },
+    {
+        "plato": "Ensalada Fria de Atun",
+        "precio": 500.00
+
+    },
+    {
+        "plato": "Croquetas",
+        "precio": 200.00
+    },
+    {
+        "plato": "Fajitas",
+        "precio": 500.00
+    },
+    {
+        "plato": "Toston relleno de Jamon",
+        "precio": 450.00
+    },
+    {
+        "plato": "Toston relleno de Atun",
+        "precio": 450.00
+    },
+    {
+        "plato": "Costillas",
+        "precio": 800.00
+    },
+    {
+        "plato": "Coctel de Camaron",
+        "precio": 700.00
+    },
+    {
+        "plato": "Garbanzo Frito",
+        "precio": 400.00
+    },
+    {
+        "plato": "Eperlan",
+        "precio": 600.00
+    },
+    {
+        "plato": "Entremes",
+        "precio": 800.00
+    }
+],
+    "platos_principales": [],
+    "sides": [],
+    "postres": []
+  },
+  "bebidas": {
+     "alcohólicas": 
+     [
+        {
+            "bebida": "Cerveza Nacional",
+            "precio": 250.00
+        },
+        {
+            "bebida": "Cerveza Nacional",
+            "precio": 200.00
+        },
+        {
+            "bebida": "Cerveza Corona",
+            "precio": 300
+        }
+     ],
+     "no_alcohólicas": 
+     [
+        {
+            "bebida": "Agua Natural",
+            "precio": 180.00
+        },
+        {
+            "bebida": "Agua Gaseada",
+            "precio": 180.00
+        },
+        {
+            "bebida": "Refresco Nacional",
+            "precio": 225.00
+        },
+        {
+            "bebida": "Refresco Importado",
+            "precio": 260.00
+        },
+        {
+            "bebida": "Malta Importada",
+            "precio": 225.00
+        },
+        {
+            "bebida": "Malta HyperMalt",
+            "precio": 260.00
+        },
+        {
+            "bebida": "Jugo(Cajita)",
+            "precio": 180.00
+        }
+     ]
+   }
+}
