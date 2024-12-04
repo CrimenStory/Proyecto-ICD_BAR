@@ -3,7 +3,6 @@
   "localidad": {
     "municipio": "Regla",
     "localizador": {
-      "direccion": "Via Blanca 11 e/ Independencia y San Luis",
       "telefonos": 
       {
         "movil": 58222469,
@@ -49,6 +48,10 @@
     "calificacion_tripadvisor": 4.5,
     "calificacion_facebook": 3.9
   },
+  "opciones_de_reserva": true,
+  "redes_sociales": true,
+  "opciones_de_pago":["Transfermovil", "Efectivo"],
+  "tipo_de_servicios":["A la carta", "A domicilio"],
   "menu": {
     "desayuno": [null],
     "entrantes": 
@@ -99,9 +102,134 @@
         "precio": 800.00
     }
 ],
-    "platos_principales": [],
-    "sides": [],
-    "postres": []
+    "platos_principales": [
+      {
+        "plato": "Pollo Grille",
+        "precio": 1100.00
+      },
+      {
+        "plato": "Masa de Cerdo",
+        "precio": 1600.00
+      },
+      {
+        "plato": "Cerdo a la Milanesa",
+        "precio": 1400.00
+      },
+      {
+        "plato": "Bistec de Cerdo",
+        "precio": 1300.00
+      },
+      {
+        "plato": "Bistec de Res",
+        "precio": 1300.00
+      },
+      {
+        "plato": "Ropa Vieja",
+        "precio": 1600.00
+      },
+      {
+        "plato": "Camarones Enchilados",
+        "precio": 1300.00
+      },
+      {
+        "plato": "Camarones al Ajillo",
+        "precio": 1300.00
+      },
+      {
+        "plato": "Camarones Grille",
+        "precio": 1200.00
+      },
+      {
+        "plato": "Camarones Rebosados",
+        "precio": 1300.00
+      },
+      {
+        "plato": "Enchilado de Langosta",
+        "precio": 1400.00
+      },
+      {
+        "plato": "Langosta Grille",
+        "precio": 1300.00
+      },
+      {
+        "plato": "Pescado Grille",
+        "precio": 1400.00
+      }
+    ],
+    "pizzas": [
+      {
+        "plato": "Pizza Napolitana",
+        "precio": 600.00
+      },
+      {
+        "plato": "Pizza de Vegetales",
+        "precio": 650.00
+      },
+      {
+        "plato": "Pizza de Jamon",
+        "precio": 800.00
+      },
+      {
+        "plato": "Pizza de Chorizo",
+        "precio": 800.00
+      },
+      {
+        "plato": "Pizza Hawaiana",
+        "precio": 850.00
+      },
+      {
+        "plato": "Pizza de Carne",
+        "precio": 800.00
+      },
+      {
+        "plato": "Pizza de Camarones",
+        "precio": 1000.00
+      },
+      {
+        "plato": "Pizza Especial 'El Pavo' ",
+        "precio": 1500.00
+      }
+    ],
+    "pastas": [
+      {
+        "plato": "Espaguetis Napolitano",
+        "precio": 600.00
+      },
+      {
+        "plato": "Espaguetis con Jamon",
+        "precio": 800.00
+      },
+      {
+        "plato": "Espaguetis Bolonesa",
+        "precio": 800.00
+      },
+      {
+        "plato": "Espaguetis con Camarones",
+        "precio": 1000.00
+      },
+      {
+        "plato": "Espaguetis con Atun",
+        "precio": 950.00
+      },
+      {
+        "plato": "Espaguetis con Bacon",
+        "precio": 800.00
+      },
+      {
+        "plato": "Lasagna de Jamon",
+        "precio": 800.00
+      },
+      {
+        "plato": "Lasagna de Carne",
+        "precio": 900.00
+      }
+    ],
+    "postres": [
+      {
+        "plato": "Flan de Leche",
+        "precio": 180.00
+      }
+    ]
   },
   "bebidas": {
      "alcohólicas": 
